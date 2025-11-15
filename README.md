@@ -3,5 +3,5 @@
 Run:
 ```
 npm install
-npm start
+vercel dev
 ```

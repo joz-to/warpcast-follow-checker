@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "vercel dev"
   },
   "dependencies": {
-    "@neynar/nodejs-sdk": "latest",
-    "express": "latest",
-    "dotenv": "latest"
+    "@neynar/nodejs-sdk": "latest"
   }
 }
