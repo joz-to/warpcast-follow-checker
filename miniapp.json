@@ -1,0 +1,14 @@
+{
+  "name": "Warpcast Follow Checker",
+  "icon": "/public/icon.png",
+  "description": "Find who didn't follow back & inactive accounts.",
+  "developer": "0xbame.eth",
+  "screens": [
+    {
+      "path": "/",
+      "title": "Follow Checker",
+      "description": "Check who doesn't follow back",
+      "image": "/public/icon.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "warpcast-follow-checker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@neynar/nodejs-sdk": "latest",
+    "express": "latest",
+    "dotenv": "latest"
+  }
+}
